@@ -1,0 +1,10 @@
+Thank you for the opportunity to do this challenge! It was challenging with the time constraints as I have not worked with VueJS, but overall enjoyable.
+
+Please follow these instructions to run the application:
+
+1. Open the root directory, install server dependencies, and start the server by running "npm install && npm run dev".
+2. Open the client directory and install client dependencies by running "cd client && npm install && npm run serve".
+
+I have chained the commands to make it easier. Simply copy and paste them to run the application.
+
+Happy testing!
